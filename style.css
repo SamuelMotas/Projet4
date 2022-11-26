@@ -725,7 +725,7 @@ h3 {
 }
 
 h1 {
-    color: white;
+    color: black;
 }
 
 h4 {
@@ -777,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: hsl(0deg 0% 100%);
+    color: black;
 }
 
 .btn-atomic-tangerine {

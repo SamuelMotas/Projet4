@@ -801,15 +801,18 @@
 
 .fa-twitter:before {
     content: "\f099"
+  
 }
 
 .fa-facebook-f:before,
 .fa-facebook:before {
     content: "\f09a"
+    
 }
 
 .fa-github:before {
     content: "\f09b"
+    
 }
 
 .fa-unlock:before {
@@ -1577,6 +1580,7 @@
 
 .fa-instagram:before {
     content: "\f16d"
+    
 }
 
 .fa-flickr:before {
@@ -1637,6 +1641,7 @@
 
 .fa-dribbble:before {
     content: "\f17d"
+    
 }
 
 .fa-skype:before {
